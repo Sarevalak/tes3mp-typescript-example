@@ -1,0 +1,20 @@
+{
+  "name": "tes3mp-typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "lua-types": "git+https://github.com/TypeScriptToLua/lua-types.git#29e94b0f31c71febb00f433e7d3499e22c1d7515",
+    "tes3mp-types": "git+https://github.com/Sarevalak/tes3mp-types.git",
+    "typescript": "^3.8.3",
+    "typescript-to-lua": "^0.31.0"
+  },
+  "scripts": {
+    "build": "tstl"
+  },
+  "author": {
+    "name": "Sarevalak"
+  },
+  "license": "MIT"
+}
